@@ -3,9 +3,9 @@ Heath St Canada Bay Council Meeting Transcript
 
 AI Generated text transcript of the Tuesday 28th March City of Canada Bay Council Meeting.
 
-Raw output is it `/raw-transcript.tsv`. Cleaned up output at `/transcript.tsv`.
+Raw output is it [raw-transcript.tsv](raw-transcript.tsv). Cleaned up output at [transcript.tsv](transcript.tsv).
 
-PRs welcome improving `/transcript.tsv`!
+PRs welcome improving [transcript.tsv](transcript.tsv)!
 
 # Method
 
